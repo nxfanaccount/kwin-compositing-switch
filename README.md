@@ -3,7 +3,7 @@ simple shell script to switch KWin compositing on and off with a tray icon to in
 
 # setup
 
-## requirements
+### requirements
 
 you need to have `yad` installed.
 
