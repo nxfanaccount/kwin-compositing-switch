@@ -10,6 +10,8 @@ you need to have `yad` installed.
 Arch: `sudo pacman -S yad`
 Debian/Ubuntu: `sudo apt install yad`
 
+---
+
 place the script anywhere you like and make sure its executable.
 
 go to KDE's system settings and navigate to `Shortcuts -> Custom Shortcuts -> Edit -> New -> Global Shortcut -> Command/URL`
