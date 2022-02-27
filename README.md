@@ -8,6 +8,7 @@ simple shell script to switch KWin compositing on and off with a tray icon to in
 you need to have `yad` installed.
 
 Arch: `sudo pacman -S yad`
+
 Debian/Ubuntu: `sudo apt install yad`
 
 ---
